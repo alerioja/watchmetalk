@@ -6,4 +6,4 @@ Using Google's speech-to-text API to deliver real-time closed captions to deaf a
 The app was featured on BBC, Gazelle, Heavy.com, the National Deaf Conference in Atlanta 2014 and 'The Complete Guide to Using Google in Libraries' written by Carol Smallwood. 
 
 #Extra
-Works on Google Glass with companion Android App.
+Works on Google Glass with companion iOS App.
