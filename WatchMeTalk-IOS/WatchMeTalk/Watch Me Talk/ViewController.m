@@ -75,7 +75,12 @@
 }
 
 - (IBAction)login:(UIButton *)sender {
+
+    // Temp: Do not use firebase to log-in. This is a bypass.
+    [self performSegueWithIdentifier:@"login" sender:sender];
+
     
+    /*
         NSString *user = [username text];
         NSString *pass = [password text];
         Firebase* myRootRef = [[Firebase alloc] initWithUrl:@"https://wmtlogin.firebaseio.com/"];
@@ -102,6 +107,8 @@
                }
            }
        }];
+     
+     */
     
 }
 - (void)textField:(UITextField *)textField shouldChangeCharactersInRange:(NSRange)range replacementString:(NSString *)string {
