@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/AustinVaday/git/watchmetalk/WatchMeTalk-GLASS/WatchMeTalk/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_music_play_50.png",
+        "source": "/Users/AustinVaday/git/watchmetalk/WatchMeTalk-GLASS/WatchMeTalk/app/src/main/res/drawable-hdpi/ic_music_play_50.png"
+    },
+    {
+        "merged": "/Users/AustinVaday/git/watchmetalk/WatchMeTalk-GLASS/WatchMeTalk/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_volume_half_50.png",
+        "source": "/Users/AustinVaday/git/watchmetalk/WatchMeTalk-GLASS/WatchMeTalk/app/src/main/res/drawable-hdpi/ic_volume_half_50.png"
+    },
+    {
+        "merged": "/Users/AustinVaday/git/watchmetalk/WatchMeTalk-GLASS/WatchMeTalk/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_microphone_off_50.png",
+        "source": "/Users/AustinVaday/git/watchmetalk/WatchMeTalk-GLASS/WatchMeTalk/app/src/main/res/drawable-hdpi/ic_microphone_off_50.png"
+    },
+    {
+        "merged": "/Users/AustinVaday/git/watchmetalk/WatchMeTalk-GLASS/WatchMeTalk/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_volume_muted_50.png",
+        "source": "/Users/AustinVaday/git/watchmetalk/WatchMeTalk-GLASS/WatchMeTalk/app/src/main/res/drawable-hdpi/ic_volume_muted_50.png"
+    },
+    {
+        "merged": "/Users/AustinVaday/git/watchmetalk/WatchMeTalk-GLASS/WatchMeTalk/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_help_50.png",
+        "source": "/Users/AustinVaday/git/watchmetalk/WatchMeTalk-GLASS/WatchMeTalk/app/src/main/res/drawable-hdpi/ic_help_50.png"
+    },
+    {
+        "merged": "/Users/AustinVaday/git/watchmetalk/WatchMeTalk-GLASS/WatchMeTalk/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_arrow_right_50.png",
+        "source": "/Users/AustinVaday/git/watchmetalk/WatchMeTalk-GLASS/WatchMeTalk/app/src/main/res/drawable-hdpi/ic_arrow_right_50.png"
+    },
+    {
+        "merged": "/Users/AustinVaday/git/watchmetalk/WatchMeTalk-GLASS/WatchMeTalk/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_question_150.png",
+        "source": "/Users/AustinVaday/git/watchmetalk/WatchMeTalk-GLASS/WatchMeTalk/app/src/main/res/drawable-hdpi/ic_question_150.png"
+    },
+    {
+        "merged": "/Users/AustinVaday/git/watchmetalk/WatchMeTalk-GLASS/WatchMeTalk/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_microphone_on_50.png",
+        "source": "/Users/AustinVaday/git/watchmetalk/WatchMeTalk-GLASS/WatchMeTalk/app/src/main/res/drawable-hdpi/ic_microphone_on_50.png"
+    },
+    {
+        "merged": "/Users/AustinVaday/git/watchmetalk/WatchMeTalk-GLASS/WatchMeTalk/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/AustinVaday/git/watchmetalk/WatchMeTalk-GLASS/WatchMeTalk/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/AustinVaday/git/watchmetalk/WatchMeTalk-GLASS/WatchMeTalk/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_gear_50.png",
+        "source": "/Users/AustinVaday/git/watchmetalk/WatchMeTalk-GLASS/WatchMeTalk/app/src/main/res/drawable-hdpi/ic_gear_50.png"
+    },
+    {
+        "merged": "/Users/AustinVaday/git/watchmetalk/WatchMeTalk-GLASS/WatchMeTalk/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_done_150.png",
+        "source": "/Users/AustinVaday/git/watchmetalk/WatchMeTalk-GLASS/WatchMeTalk/app/src/main/res/drawable-hdpi/ic_done_150.png"
+    },
+    {
+        "merged": "/Users/AustinVaday/git/watchmetalk/WatchMeTalk-GLASS/WatchMeTalk/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_no_50.png",
+        "source": "/Users/AustinVaday/git/watchmetalk/WatchMeTalk-GLASS/WatchMeTalk/app/src/main/res/drawable-hdpi/ic_no_50.png"
+    },
+    {
+        "merged": "/Users/AustinVaday/git/watchmetalk/WatchMeTalk-GLASS/WatchMeTalk/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_arrow_left_50.png",
+        "source": "/Users/AustinVaday/git/watchmetalk/WatchMeTalk-GLASS/WatchMeTalk/app/src/main/res/drawable-hdpi/ic_arrow_left_50.png"
+    },
+    {
+        "merged": "/Users/AustinVaday/git/watchmetalk/WatchMeTalk-GLASS/WatchMeTalk/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_volume_full_50.png",
+        "source": "/Users/AustinVaday/git/watchmetalk/WatchMeTalk-GLASS/WatchMeTalk/app/src/main/res/drawable-hdpi/ic_volume_full_50.png"
+    },
+    {
+        "merged": "/Users/AustinVaday/git/watchmetalk/WatchMeTalk-GLASS/WatchMeTalk/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_music_pause_50.png",
+        "source": "/Users/AustinVaday/git/watchmetalk/WatchMeTalk-GLASS/WatchMeTalk/app/src/main/res/drawable-hdpi/ic_music_pause_50.png"
+    }
+]

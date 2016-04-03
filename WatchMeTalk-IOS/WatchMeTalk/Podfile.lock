@@ -1,0 +1,13 @@
+PODS:
+  - RDVTabBarController (1.1.6)
+  - RESideMenu (4.0.4)
+
+DEPENDENCIES:
+  - RDVTabBarController
+  - RESideMenu (~> 4.0.4)
+
+SPEC CHECKSUMS:
+  RDVTabBarController: 252dafb16725f9a07026618ff51acf06a12b206b
+  RESideMenu: af599feabe620b562667b91cb1abe3d961b01f08
+
+COCOAPODS: 0.33.1
