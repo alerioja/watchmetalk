@@ -7,3 +7,7 @@ The app was featured on BBC, Gazelle, Heavy.com, the National Deaf Conference in
 
 #Extra
 Works on Google Glass with companion Android App.
+
+We're sad Google Glass got discontinued, but feel free to keep pushing this project forward!
+
+
